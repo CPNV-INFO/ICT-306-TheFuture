@@ -1,0 +1,3 @@
+user@example.com/wZeB903YAidk
+https://3.122.137.51
+ssh -i future.pem bitnami@3.122.137.51
