@@ -13,4 +13,20 @@ https://bitnami.com/stack/erpnext
 
 (27.09.2019 DMI) rédaction et envoi du PV
 
-(27.09.2019 BPT) Fermeture du Sprint 1 et création du nouveau Sprint
+(27.09.2019 BPT) Fermeture du Sprint 1
+
+(30.09.2019 BPT) Création du Sprint 2
+
+(03.10.2019 BPT)Création du CDC
+
+(10.10.2019 DMI)Envoi du CDC
+
+(14.10.2019 BPT)Fermeture du Sprint 2
+
+(15.10.2019 BPT)Création du Sprint 3
+
+(04.11.2019 DMI)Envoi du CDC 1.2 et 1.3
+
+(04.11.2019 DMI)Réunion 2 avec le client
+
+(04.11.2019 DMI) rédaction et envoi du PV
