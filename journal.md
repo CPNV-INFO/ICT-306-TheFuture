@@ -29,4 +29,6 @@ https://bitnami.com/stack/erpnext
 
 (04.11.2019 DMI)Réunion 2 avec le client
 
-(04.11.2019 DMI) rédaction et envoi du PV
+(04.11.2019 DMI) Rédaction et envoi du PV
+
+(11.11.2019 BPT) Envoie du rapport de livraison
